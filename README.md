@@ -1,4 +1,4 @@
-# about_me
+# Hello, I'm Cris! 
 
 As a Data Scientist specializing in Machine Learning and Predictive Modeling, I transform complex datasets into actionable insights that drive business growth. With a strong command of Python, SQL, and Data Visualization tools such as Tableau, I develop data-driven solutions tailored to organizational needs. I'm passionate about continually enhancing my skills and providing clear, data-backed recommendations to help stakeholders make informed decisions. Outside of work, I enjoy quality time with my family and engaging in friendly competitions with friends.
 
