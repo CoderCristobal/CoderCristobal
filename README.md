@@ -5,7 +5,6 @@ As a Data Scientist specializing in Machine Learning and Predictive Modeling, I 
 Skills:
 
 Machine Learning:
-
 Proficient in solving classification and regression problems across diverse data types.
 Extensive knowledge of machine learning models, including hyperparameter tuning.
 Familiar with challenges in model training and able to address them effectively.
@@ -14,14 +13,14 @@ Data Analysis & Processing:
 
 Skilled in data preprocessing, exploratory data analysis (EDA), and data labeling.
 Experienced with time series analysis and data storage solutions.
-Mathematics:
 
+Mathematics:
 Strong foundation in probability theory, statistics, linear algebra, and numerical methods.
 Adept at distinguishing between frequency and density histograms and avoiding common data representation errors.
-Business Acumen:
 
+Business Acumen:
 Deep understanding of product funnels, conversions, and A/B testing methodologies.
 Ability to align data-driven insights with business strategies and product goals.
-Coding:
 
+Coding:
 Proficient in Python, with a strong ability to work with technical documentation and construct effective solutions.
